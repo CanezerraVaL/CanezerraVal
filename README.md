@@ -63,7 +63,7 @@
 ### 🔗 [CONNECTION_NODES]
 - **LINKEDIN:** [in/soumyadeep-saha-6a9751272](https://www.linkedin.com/in/soumyadeep-saha-6a9751272)
 - **PORTFOLIO:** `INCOMING_TRANSMISSION...`
-- **EMAIL:** `soumyadeep.saha@example.com` *(Update this!)*
+- **EMAIL:** `soumyadeepsaha@dsu.edu` *(Update this!)*
 
 ---
 
